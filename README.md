@@ -1,2 +1,1 @@
-# c23-creating-blue-print
-c23
+# Box Class
